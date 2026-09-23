@@ -45,5 +45,6 @@ I am interested in graduate and entry-level opportunities in:
 ## Let's Connect
 
 **LinkedIn:** 
+https://www.linkedin.com/in/selaelo-ramathopa-920713279?trk=contact-info
 
 **GitHub:** https://github.com/Selaeloramathopa
